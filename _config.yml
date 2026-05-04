@@ -5,7 +5,8 @@ description: Food & Grocery store online.
 lokasi: Sumedang
 adminWa: 082118762872
 
-url: https://chaliagrocery.netlify.app
+url: 
+baseurl: /chalia
 sitekey: 6LdPL-wZAAAAAAzUvjEWXHGLAgKL78wBzB1IR8t7
 appID: 5e6a1bc8-9432-4403-b8dc-d7dfabf2a7d4
 dev: UnanG
