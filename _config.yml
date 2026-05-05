@@ -57,7 +57,7 @@ sidebar_options:
   - sidebar
   - no-sidebar
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-figure
   - jekyll-sitemap
